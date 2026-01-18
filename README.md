@@ -3,6 +3,8 @@ This is a Python-based game bot to play https://www.msn.com/en-in/play/games/spe
 
 Dataset: https://dx.doi.org/10.21227/kykc-qg87
 
+https://www.kaggle.com/models/sh1vmpatel/speed-master-evade-model
+
 TODO List :
  1) Make a new dataset for 12 minutes of continuous gameplay without crashing, and record the complete game window 
  2) Record Key Press Timings
